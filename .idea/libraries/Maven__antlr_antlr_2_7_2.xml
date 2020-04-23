@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Maven: antlr:antlr:2.7.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/antlr/antlr/2.7.2/antlr-2.7.2.jar!/" />
+      <root url="file://C:/apache-maven-3.6.3" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/antlr/antlr/2.7.2/antlr-2.7.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/antlr/antlr/2.7.2/antlr-2.7.2-sources.jar!/" />
+      <root url="file://C:/apache-maven-3.6.3" />
+    </SOURCES>
+    <excluded>
+      <root url="file://C:/apache-maven-3.6.3" />
+    </excluded>
+  </library>
+</component>
